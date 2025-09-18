@@ -1,1 +1,2 @@
-print('test script1')
+def test_script1():
+    print('hi , GE, this is test script1')
